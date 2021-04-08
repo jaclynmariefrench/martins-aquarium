@@ -3,6 +3,9 @@
     background-color: ivory;
     margin-left: 5rem;
     padding: 0 2rem;
+    border: 5px solid;
+    padding: 18px;
+    border-radius: 10px;
 }
 
 .header--tips {
