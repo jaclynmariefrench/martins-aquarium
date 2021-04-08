@@ -1,0 +1,10 @@
+.tips {
+    flex: 1;
+    background-color: ivory;
+    margin-left: 5rem;
+    padding: 0 2rem;
+}
+
+.header--tips {
+    text-align: center;
+}

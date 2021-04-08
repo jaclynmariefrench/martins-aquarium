@@ -1,3 +1,29 @@
-#fishtank{}
-.fish {}
-.fish_name {}
+@import "./fishes.css";
+@import "./tips.css";
+@import "./locations.css";
+@import "./quotes.css";
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.bodyHeader {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    padding: 3rem;
+}
+
+.bordered {
+    /* border: 1px dotted goldenrod; */
+}
+
+.bottom-space {
+    margin-bottom: 3rem;
+}
+
+.flex-container-left {
+    flex: 3;
+}
