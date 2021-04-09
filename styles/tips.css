@@ -1,11 +1,11 @@
 .tips {
     flex: 1;
-    background-color: ivory;
-    margin-left: 5rem;
-    padding: 0 2rem;
+    background-color: lightgrey; 
+    margin-left: 3rem;
     border: 5px solid;
-    padding: 18px;
-    border-radius: 10px;
+    padding: 20px;
+    border-radius: 11px;
+    margin-right: 3rem;
 }
 
 .header--tips {

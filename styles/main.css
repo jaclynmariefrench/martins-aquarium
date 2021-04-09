@@ -7,13 +7,21 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 
+
 .bodyHeader {
     text-align: center;
+    background-color: lightgray;
+    border: 5px solid;
+    border-radius: 11px;
+    padding: 10px;
+
 }
 
 .container {
     display: flex;
     padding: 3rem;
+    background-color: rgb(31, 187, 179);
+    background-image: url(https://wallpaperaccess.com/full/280863.jpg);
 }
 
 .bordered {
@@ -26,4 +34,33 @@ body {
 
 .flex-container-left {
     flex: 3;
+}
+
+.header--fishes {
+    border: 5px solid black;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    background-color: lightgray;
+   
+    
+}
+
+.header--quotes {
+    border: 5px solid black;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+.header--locations {
+    border: 5px solid black;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    background-color: lightgray;
 }
