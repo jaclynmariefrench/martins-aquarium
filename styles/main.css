@@ -24,9 +24,6 @@ body {
     background-image: url(https://wallpaperaccess.com/full/280863.jpg);
 }
 
-.bordered {
-    /* border: 1px dotted goldenrod; */
-}
 
 .bottom-space {
     margin-bottom: 3rem;
@@ -37,30 +34,31 @@ body {
 }
 
 .header--fishes {
-    border: 5px solid black;
-    padding: 15px;
-    display: flex;
-    flex-wrap: wrap;
-    border-radius: 10px;
-    background-color: lightgray;
+
+        border: 5px solid black;
+        padding: 15px;
+        display: inline-flex;
+        flex-wrap: wrap;
+        border-radius: 10px;
+        background-color: lightgray;
+    }
    
-    
-}
 
 .header--quotes {
-    border: 5px solid black;
-    padding: 15px;
-    display: flex;
-    flex-wrap: wrap;
-    border-radius: 10px;
-    background-color: lightgray;
-}
+
+        border: 5px solid black;
+        padding: 15px;
+        display: inline-flex;
+        flex-wrap: wrap;
+        border-radius: 10px;
+        background-color: lightgray;
+    }
 
 .header--locations {
-    border: 5px solid black;
-    padding: 15px;
-    display: flex;
-    flex-wrap: wrap;
-    border-radius: 10px;
-    background-color: lightgray;
+        border: 5px solid black;
+        padding: 15px;
+        display: inline-flex;
+        flex-wrap: wrap;
+        border-radius: 10px;
+        background-color: lightgray;
 }
