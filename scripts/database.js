@@ -6,45 +6,49 @@
  */
 const database = {
     fish: [
-        {
-            name: "Sponge Bob",
-            species: "Sponge",
+         {
+            image: x,
+            name: 'Sponge Bob',
+            species: 'Sponge',
             length: 3,
-            food: "Krabby Patty",
-            location: "Bikini Bottom"
+            food: 'Krabby Patty',
+            location: 'Bikini Bottom',
             
         }
-
-        {
-            name: "Patrick Star",
-            species: "Starfish",
+        ,
+         {
+            image: x,
+            name: 'Patrick Star',
+            species: 'Starfish',
             length: 4,
-            food: "Everything",
-            location: "Bikini Bottom",
+            food: 'Everything',
+            location: 'Bikini Bottom',
         }
-
-        {
-            name: "Random Fish Guy",
-            species: "Fish",
+        ,
+          {
+            image: x,
+            name: 'Random Fish Guy',
+            species: 'Fish',
             length: 5,
-            food: "Taco",
-            location: "Bikini Bottom",
+            food: 'Taco',
+            location: 'Bikini Bottom',
         }
-
-        {
-            name: "Squidward",
-            species: "Squid",
+        ,
+         {
+            name: 'Squidward',
+            species: 'Squid',
             length: 5,
-            food: "Anything Fancy",
-            location: "Bikini Bottom",
+            food: 'Anything Fancy',
+            location: 'Bikini Bottom',
         }
-        
+        ,
         {
-            name: "Plankton",
-            species: "Plankton",
+            image: x,
+            name: 'Plankton',
+            species: 'Plankton',
             length: 2,
-            food: "Krabby Patty Secret Formula",
-            location: "Bikini Bottom",
+            food: 'Krabby Patty Secret Formula',
+            location: 'Bikini Bottom',
         }
     ]
 }
